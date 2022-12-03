@@ -1,6 +1,4 @@
-# data_analysis
-
-**Vending Machine sales dataset**
+# Vending Machine sales analysis
 
 Source: https://www.kaggle.com/datasets/awesomeasingh/vending-machine-sales
 
