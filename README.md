@@ -15,3 +15,5 @@ To this aim the questions that will be answered are the following:
 [2. Which are the top 5 best selling/grossing products?](https://github.com/vagge86/data_analysis/blob/main/2.%20Top%205%20Best%20selling%20products.md)
 
 [3. How could each location improve its sales?](https://github.com/vagge86/data_analysis/tree/main/How%20could%20each%20location%20improve%20its%20sales%3F.md)
+
+Included in the files section is the Power BI dashboard file and the corresponding excel file.
