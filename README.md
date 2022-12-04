@@ -2,7 +2,7 @@
 
 Source: https://www.kaggle.com/datasets/awesomeasingh/vending-machine-sales
 
-The analysis of this dataset has as goal to demonstrate descriptive analysis and dashboard creation in Excel and Power BI.
+The analysis of this dataset has as goal to demonstrate descriptive analysis and dashboard creation skills in Excel and Power BI.
 The dataset regarding sales of vending machines in 4 locations in Central New Jersey.
 
 **Business Task**: 
