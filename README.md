@@ -12,6 +12,6 @@ To this aim the questions that will be answered are the following:
 
 [1. Which is the best selling location?](https://github.com/vagge86/data_analysis/blob/main/1.%20Best%20Selling%20Location.md)
 
-2. Which are the top 5 best selling/grossing products?
+[2. Which are the top 5 best selling/grossing products?] (https://github.com/vagge86/data_analysis/blob/main/2.%20Top%205%20Best%20selling%20products.md)
 
 3. How could each location improve its sales?
