@@ -1,4 +1,4 @@
-## Vending Machine Sales Analysis
+## <ins>Vending Machine Sales Analysis</ins>
 
 (![image](https://user-images.githubusercontent.com/69303154/206919096-d17c597c-995e-41fe-8913-ab62546a8cc9.png)
 
@@ -6,14 +6,15 @@
 
 ----
 
-**Analysis Goal:** Exploratory data analysis (EDA) and dashboard creation in [Excel](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/vending_machine_sales_dashboard.xlsx) and [Power BI](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/Vending%20Machines.pbix)
+**<ins>Analysis Goal:</ins>** Exploratory data analysis (EDA) and dashboard creation in [Excel](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/vending_machine_sales_dashboard.xlsx) and [Power BI](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/Vending%20Machines.pbix)
 
-**Dataset Description**: 
+**<ins>Dataset Description</ins>**: 
+
 The dataset documenting sales of vending machines in 4 locations in Central New Jersey between January and August 2022.
 
 - First step is the overview of the dataset, the cleaning, and the description of the dashbaord creation ([0.Preparation](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/0.%20Preparation.md)).
 
-**Business Task**: 
+**<ins>Business Task</ins>**: 
 
 - EDA Analysis of sales and revenue of the 4 locations (Questions 1 and 2). 
 
