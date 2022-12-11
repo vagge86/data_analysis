@@ -1,12 +1,19 @@
-# Vending Machine Sales Analysis
+## Vending Machine Sales Analysis
 
-Source: https://www.kaggle.com/datasets/awesomeasingh/vending-machine-sales
+(![image](https://user-images.githubusercontent.com/69303154/206919096-d17c597c-995e-41fe-8913-ab62546a8cc9.png)
 
-The analysis of this dataset has as goal to demonstrate descriptive analysis and dashboard creation skills in Excel and Power BI.
-The dataset regarding sales of vending machines in 4 locations in Central New Jersey.
+### Source: https://www.kaggle.com/datasets/awesomeasingh/vending-machine-sales
+
+----
+
+**Analysis Goal:** Exploratory data analysis (EDA) and dashboard creation in [Excel](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/vending_machine_sales_dashboard.xlsx) and [Power BI](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/Vending%20Machines.pbix)
+
+**Dataset Description**: 
+The dataset documenting sales of vending machines in 4 locations in Central New Jersey between January and August 2022.
 
 **Business Task**: 
-Analysis of sales and revenue of the 4 location to determine the best performing location and products. In addition depending on each locations' analysis findings, suggestions will be suggested to improve each locations' financial performance.
+Analysis of sales and revenue of the 4 location to determine the best performing location and products. 
+In addition depending on each locations' analysis findings, suggestions will be suggested to improve each locations' financial performance.
 
 To this aim the questions that will be answered are the following:
 
