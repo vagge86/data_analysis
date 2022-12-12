@@ -17,11 +17,11 @@ The dataset documenting sales of vending machines in 4 locations in Central New 
 - First step is the overview of the dataset and the cleaning process. ([0.Preparation](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/0.%20Preparation.md)).
 
 **<ins>Business Task</ins>**: 
-- Dataset exploration using SQL and highlighting of important points. (Question 1) 
+- Dataset exploration using SQL and highlighting of important points. (Question [1](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/0.%20Preparation.md)) 
 
-- Analysis of product sales and of the 4 locations' performance (Questions 2 and 3). 
+- Analysis of product sales and of the 4 locations' performance (Questions [2](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/1.%20General%20Information-EDA.md) and [3](https://github.com/vagge86/data_analysis/blob/main/2.%20Top%205%20Best%20selling%20products.md)). 
 
-- Suggestions to improve each locations' performance (Question 4).
+- Suggestions to improve each locations' performance (Question [4](https://github.com/vagge86/data_analysis/tree/main/How%20could%20each%20location%20improve%20its%20sales%3F.md)).
 
 |Repository contents| 
 |:-----------------------------------|
