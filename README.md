@@ -4,6 +4,8 @@
 
 ### Source: https://www.kaggle.com/datasets/awesomeasingh/vending-machine-sales
 
+This analysis has been carried out using Excel, MySQL and Power BI.
+
 ----
 
 **<ins>Analysis Goal:</ins>** Exploratory data analysis (EDA) and dashboard creation in [Excel](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/vending_machine_sales_dashboard.xlsx) and [Power BI](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/Vending%20Machines.pbix)
