@@ -21,6 +21,8 @@ The dataset documenting sales of vending machines in 4 locations in Central New 
 - Which is the best selling location?(https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/2.%20Best%20selling%20location.md)
 - Location analysis & Improvement Suggestions.(https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/tree/main/3.%20Location%20analysis)
 
+
+
 |Repository contents| 
 |:-----------------------------------|
 |[0. Preparation](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/0.%20Preparation.md)|
