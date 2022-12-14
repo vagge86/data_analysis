@@ -25,6 +25,6 @@ The dataset documenting sales of vending machines in 4 locations in Central New 
 |Repository contents| 
 |:-----------------------------------|
 |[0. Preparation](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/0.%20Preparation.md)|
-|[1. General Information-EDA](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/1.%20General%20Information-EDA.md)|
+|[1. Dataset Exploration](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/1.%20General%20Information-EDA.md)|
 |[2. Best Selling Location](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/2.%20Best%20selling%20location.md)|
 |[3. Location Analysis & Improvement Suggestions](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/tree/main/3.%20Location%20analysis)|
