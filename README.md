@@ -14,7 +14,7 @@ The dataset documenting sales of vending machines in 4 locations in Central New 
 
 **<ins>Analysis Goal:</ins>** Exploratory data analysis (EDA) using SQL and dashboard creation in [Excel](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/vending_machine_sales_dashboard.xlsx) and [Power BI](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/Vending%20Machines.pbix)
 
-:dart:- First step is the overview of the dataset and the cleaning process. ([0.Preparation](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/0.%20Preparation.md)).
+:dart:- First step is the overview of the dataset and the cleaning process. ([0.Preparation]).
 
 :star:**<ins>Business Tasks</ins>**: 
 - Dataset exploration using SQL and highlighting of important points. - [1. General Information-EDA](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/1.%20Dataset%20Exploration-EDA.md)
