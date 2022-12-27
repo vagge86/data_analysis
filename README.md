@@ -18,4 +18,4 @@ The dataset documenting sales of vending machines in 4 locations in Central New 
 
 :star:**<ins>Business Tasks</ins>**: 
 - Dataset exploration using SQL and highlighting of important points. - [1. Dataset Descriptive Analytics](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/blob/main/1.%20Dataset%20Descriptive%20Analytics.md)
-- Location analysis & Improvement Suggestions for each location. - [2. Location Analysis & Improvement Suggestions](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/tree/main/3.%20Location%20analysis)
+- Location analysis & Improvement Suggestions for each location. - [2. Location Analysis & Improvement Suggestions](https://github.com/vasilisangelidis/Vending_Machine_Sales_Analysis/tree/main/2.%20Location%20analysis)
